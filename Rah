@@ -1,0 +1,11 @@
+cd SocialBox
+chmod +x SocialBox.sh
+chmod +x install-sb.sh
+./install-sb.sh
+./SocialBox.sh
+Brute Force Fcebook = 1
+Brue Force Gmail = 2
+Brute Force Instagram = 3
+Brute Force Twitter = 4
+path of passwords file = cipher path
+target username and email
